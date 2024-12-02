@@ -13,7 +13,6 @@ When works, app is controling files for change
 
 When change detected from file, it prints message and restoring from backup.
 
----
 ## 3rdparty libs
 
 - [BS::thread_pool](https://github.com/bshoshany/thread-pool/tree/master)
